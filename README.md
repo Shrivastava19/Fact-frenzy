@@ -1,6 +1,7 @@
 # Fact Frenzy
 
 Fact Frenzy is an interactive web application that delivers fascinating facts across various topics. Designed for curious minds, it features a sleek, user-friendly interface powered by React and Vite.
+Multiplayer Quiz Game
 
 ## Features
 - **Random Facts:** Explore an ever-changing array of intriguing facts.
